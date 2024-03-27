@@ -5,7 +5,7 @@ The Classic Breakout Game, also known as [DX-Ball](https://en.wikipedia.org/wiki
 ## Instructions to Run
 + Clone Repository to local machine
 ```git
-git clone https://github.com/sarthakagarwal18/Breakout_Game.git
+git clone https://github.com/aakash367/Breakout_Game.git
 ```
 + Open [index.html](index.html)
 + Enjoy
